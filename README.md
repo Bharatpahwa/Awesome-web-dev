@@ -37,7 +37,7 @@ Once your PR gets merged, then don't forget to add your Dev Info in [Contributor
 |     8.     | Techn Blogs webapp | [Tech Geeks](https://techgeeksblog.netlify.app/)     | [Tech Geeks](https://github.com/geetika001/Awesome-web-dev/tree/main/Technical%20Blogs%20Website) |
 |     9.     | Height Converter | [Height Converter](https://636524da483a130a61a91992--heightconverterweb.netlify.app/) | [Height Converter](https://github.com/Drishti-jain21/Awesome-web-dev/tree/main/Drishti(Height%20Converter)) |
 |     10.     | Landing Page | [Landing Page](https://travelllandingpage.netlify.app) | [Landing Page](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Bharat%20(landing%20page)) |
-|     11.     | Tic-Tac-Toe | [Tic-Tac-Toe](https://bharattictactoegame.netlify.app) | [Tic-Tac-Toe](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Bharat's%20Projects)) |
+|     11.     | Tic-Tac-Toe | [Tic-Tac-Toe](https://bharattictactoegame.netlify.app) | [Tic-Tac-Toe](https://github.com/Ashish-khanagwal/Awesome-web-dev/tree/main/Bharat's%20Projects) |
 </div>
 
 <h1 id="Dhruvi" align="center">Dhruvi's web dev projects</h1>
